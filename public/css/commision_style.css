@@ -1,0 +1,90 @@
+
+.liactive.active {
+    background-color: #fff;
+    font-size: 18px;
+    color: #421987 !important;
+    border-radius: 40px;
+    padding: 5px 8px 5px 8px;
+}
+
+.liactive.active a {
+    color: #102a43;
+}
+
+
+
+
+
+.input_text3 {
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border: 1px solid #D9E2EC;
+    border-radius: 58px;
+    height: 48px;
+    padding: 14px 0px 14px 45px;
+    width: 300px !important;
+    position: relative;
+    
+}
+.ambassador_table tr th {
+    font-size: 14px;
+    line-height: 150%;
+    color: #102A43;
+}
+.bi-search {
+    position: absolute;
+    left: 30px;
+}
+
+button.close {
+    padding: 2px 8px 0px 0px;
+}
+
+.modal-header {
+    border-bottom: none !important;
+}
+
+.modal-content {
+    border-radius: 10px;
+    padding: 40px 32px;
+    text-align: left;
+}
+
+.table td,
+.table th {
+    vertical-align: middle !important;
+}
+
+.page-link {
+    font-family: rubik_light;
+    font-weight: 600;
+    color: #243B53;
+    background-color: #fff;
+    border: none;
+}
+
+.page-link:focus {
+    box-shadow: none !important;
+    color: #653CAD !important;
+}
+
+.modal-footer {
+    background: #FBFCFE;
+    border: none;
+    padding: 16px 32px;
+}
+
+.add_products_modal_btn {
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 11px 40px;
+    background: #653CAD;
+    border-radius: 100px;
+    border: none;
+    width: 48%;
+    padding-right: 12px !important;
+}
+
+input[type="checkbox"] {
+    background: #653CAD !important;
+}

@@ -1,0 +1,190 @@
+@media (max-width:1024px) {}
+
+@media (max-width:768px) {
+    .main_main_section {
+        padding: 15px !important;
+    }
+    .mainSection {
+        padding: 0px 15px 40px 15px !important;
+        width: 100% !important;
+    }
+    .sidenav {
+        display: none;
+    }
+    .sales_section {
+        max-width: 48% !important;
+    }
+    .sales_section span {
+        font-size: 18px;
+    }
+    .sales_section h1 {
+        font-size: 20px;
+    }
+    .input_text1 {
+        width: 100% !important;
+    }
+    .commissions_txt1 h1 {
+        font-size: 15px;
+    }
+    .amb_input_text4 {
+        width: 100% !important;
+    }
+    .amb_input_text5 {
+        width: 100% !important;
+    }
+    .navbar_main_ {
+        padding: 0 !important;
+    }
+    .sidebar_fixed {
+        z-index: 9999999999999999;
+    }
+}
+
+@media (max-width:548px) {
+    .ambassador_section2 {
+        text-align-last: center;
+        padding-top: 15px;
+    }
+    .invite_ambassador_sec_ {
+        text-align: center;
+    }
+    .table_section_ambassadors .amb_input_text3 {
+        width: 100% !important;
+    }
+    .bi-search {
+        left: 30px;
+    }
+    .messaging_pannel {
+        max-width: 100% !important;
+        margin: 1%;
+    }
+    .setting_form1 {
+        max-width: 100% !important;
+    }
+    .settings_btn_save {
+        margin-top: 50px;
+    }
+    .table-responsive {
+        display: block !important;
+    }
+    .amb_cancel_delete_btn {
+        margin-top: 20px;
+        padding: 11px 84px !important;
+    }
+    .amb_delete_delete_btn {
+        margin-bottom: 20px;
+        padding: 12px 89px !important;
+    }
+    .ambassodor_sales_section {
+        max-width: 31% !important;
+    }
+    .ambassodor_sales_section h1 {
+        font-size: 14px;
+    }
+    .ambassodor_sales_section span {
+        font-size: 13px;
+    }
+    .graph_section {
+        padding: 0;
+    }
+    .dashboard_table_ {
+        max-width: 100% !important;
+    }
+    .pay_pal_btn {
+        padding: 11px 80px !important;
+    }
+    .amazon_gift_card {
+        padding: 11px 64px !important;
+        margin-left: 0 !important;
+        margin-top: 15px;
+    }
+    .ambassador_sales_table_date {
+        width: 100%;
+        float: none;
+    }
+    .table_section_ambassadors {
+        margin-top: 15px;
+    }
+    .commission_table_section {
+        padding: 0;
+    }
+    .form_settings_ambassador {
+        max-width: 100% !important;
+    }
+    .dashboard_txt3 h1 {
+        font-size: 14px;
+    }
+    .dashboard_txt3 span {
+        font-size: 14px;
+    }
+    .save_changes_btn {
+        float: none !important;
+        margin-top: 20px;
+    }
+    .<em>email_preview_btn</em> {
+        float: none !important;
+    }
+    .ambassador_dashboard_txt2 {
+        font-size: 17px;
+    }
+    .ambassador_dashboard_txt1 {
+        font-size: 17px;
+    }
+}
+
+
+/* @media (max-width:480px) {}
+
+@media (max-width:425px) {}
+
+@media (max-width:414px) {} */
+
+@media (max-width:375px) {
+    .commisions_pannel {
+        max-width: 100% !important;
+        margin: 1%;
+    }
+    .ambassador_dashboard_txt1 {
+        font-size: 17px;
+    }
+    .ambassador_dashboard_txt2 {
+        font-size: 17px;
+    }
+}
+
+@media (max-width:320px) {
+    .nav-link {
+        font-size: 16px !important;
+    }
+    .nav-link {
+        padding: 0.5rem 0rem !important;
+    }
+    /* commissions page css */
+    .commissions_txt1 h1 {
+        font-size: 12px;
+    }
+    .commissions_txt2 {
+        font-size: 14px;
+    }
+    .commissions_txt3 {
+        font-size: 12px;
+    }
+    .commissions_txt4 {
+        font-size: 14px;
+    }
+    .ambassador_dashboard_txt1 {
+        font-size: 14px;
+    }
+    .ambassador_dashboard_txt2 {
+        font-size: 14px;
+    }
+    .ambassador_dashboard_txt4 {
+        font-size: 13px;
+    }
+    .ambassador_dashboard_txt3 {
+        font-size: 13px;
+    }
+    .sidebar_fixed {
+        width: 229px;
+    }
+}
