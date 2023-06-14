@@ -1,3 +1,5 @@
+## Laravel
+
 1- git remote add origin https://github.com/HappyAgarwal918/draftly-with-session.git
 2- cd draftly-with-session
 3- composer install
@@ -5,3 +7,7 @@
 5- php artisan serve
 
 // Need env file database and credentials.
+
+## Server Requirements
+
+PHP version 7.2 is required.
